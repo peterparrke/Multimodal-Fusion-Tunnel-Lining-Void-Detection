@@ -1,0 +1,6 @@
+Stage,Seconds
+Data reading,11.728053000000727
+Preprocessing,0.5324782000006962
+Feature extraction,26.530218799998693
+TAE training/inference,14.173469600002136
+Fusion,10.336795900000652
